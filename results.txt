@@ -1,0 +1,6 @@
+Broc'a  72.0
+Lorentz'a  72.5
+Harris'a-Benedict'a 1897.2649999999999
+Mifflina  1805.0
+Potton'a  76.0
+BMI  24.074074074074076

@@ -1,0 +1,12 @@
+1) Nasz program pobiera biblioteke "tkinter" do stworzenia widoku okienkowego naszej aplikacji.
+
+2) Na wstępie program prosi użytkownika o podanie danych:
+	- program sprawdza czy podane wartości są liczbami 
+	- program sprawdza czy płeć została wybrana
+	- odpowiednio do wybranej płci otwiera się kolejne okno.
+
+3) Kalkulatory są podzielone na dwie sekcje:
+	- kalkulatory natychmiastowe (po wciśnięciu przycisku ukazuje nam się wynik)
+	- zapis do pliku (program tworzy plik tekstowy w katalogu gdzie znajduje się program oraz wpisuje tam wyniki kalkulacji).
+
+4) Program dzięki zabezpieczeniu przed błędami jest funkcjonalny oraz dzięki użyciu nakładki graficznej jest przyjemniejszy w obsłudze.
